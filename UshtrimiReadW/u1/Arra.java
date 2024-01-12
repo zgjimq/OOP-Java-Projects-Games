@@ -1,0 +1,25 @@
+import java.util.*;
+public class Arra{
+	public static void main (String args []){
+		Vector <String> lista = new Vector<String>();
+		lista.add("idkPart1");
+		lista.add("idkPart2");
+		System.out.println(lista);
+		System.out.println("===================");
+		Iterator itr = lista.iterator();
+		
+		while(itr.hasNext()){
+			System.out.println(itr.next());
+		}
+		System.out.println("===================");
+		for(String fruit:lista){
+			System.out.println(fruit);
+		}
+		for (int i = 0 ; i<lista.size();i++{
+			System.out.println(lista.get(i));
+			i++;
+		}
+		
+		
+	}
+}

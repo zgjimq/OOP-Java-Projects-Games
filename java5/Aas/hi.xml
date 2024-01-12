@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-9"?>
+
+<root>
+    <Custumer>
+        <Id>
+            1
+        </Id>
+        <FirstName>
+            Zgjim
+        </FirstName>
+    </Custumer>
+</root>
